@@ -1,4 +1,4 @@
-'''
+```
 /* CLIQUE NO SINAL DE "+", À ESQUERDA, PARA EXIBIR A DESCRIÇÃO DO EXEMPLO
  *  
  * Copyright (C) 2014 - UNIVALI - Universidade do Vale do Itajaí
@@ -58,4 +58,4 @@ programa
 	}
 }
 
-'''
+```
